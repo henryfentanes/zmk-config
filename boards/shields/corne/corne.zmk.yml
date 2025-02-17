@@ -16,3 +16,5 @@ siblings:
   - corne_left_peripheral
   - corne_dongle_xiao
   - corne_dongle_pro_micro
+  - splitkb_aurora_corne_left
+  - splitkb_aurora_corne_right
